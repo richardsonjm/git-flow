@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit-remote in master
+=======
+commit-remote in master
+>>>>>>> feature-branch-remote
